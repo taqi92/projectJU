@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_weight="1"
+            android:weightSum="2"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="8dp">
+
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/iit"
+                android:layout_width="wrap_content"
+                android:layout_height="260dp"
+                android:layout_weight="1"
+                android:background="@drawable/buttonstyle"
+                android:text="IIT"
+                android:textSize="24sp"
+                android:layout_marginRight="4dp"/>
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/cse"
+                android:layout_width="wrap_content"
+                android:layout_height="260dp"
+                android:layout_weight="1"
+                android:background="@drawable/buttonstyle"
+                android:text="CSE"
+                android:textSize="24sp"
+                android:layout_marginLeft="4dp"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_weight="1"
+            android:weightSum="2"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginBottom="8dp">
+
+
+            <android.support.v7.widget.AppCompatButton
+                android:layout_width="wrap_content"
+                android:layout_height="260dp"
+                android:layout_weight="1"
+                android:id="@+id/stat"
+                android:background="@drawable/buttonstyle"
+                android:text="STAT"
+                android:textSize="24sp"
+                android:layout_marginRight="4dp"/>
+
+            <android.support.v7.widget.AppCompatButton
+                android:layout_width="wrap_content"
+                android:layout_height="260dp"
+                android:layout_weight="1"
+                android:id="@+id/env"
+                android:background="@drawable/buttonstyle"
+                android:text="ES"
+                android:textSize="24sp"
+                android:layout_marginLeft="4dp"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

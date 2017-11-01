@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ProjectJU</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string name="iit">Institute of Information Technology establishes in 2009. Institute has goal to provide high end IT professionals.</string>
+
+    <string name="Environmental_Science">The Department of Environmental Sciences is an academic department in the faculty of
+        Mathematical and Physical Sciences of Jahangirnagar University. In addition to a full phase undergraduate program, the
+        department also offers graduate degree programs leading to Master of Science (MS), Master of Philosophy (M.Phil) and Doctor
+        of Philosophy (Ph.D) emphasizing basic research of a disciplinary of interdisciplinary nature. The unique juxtaposition of
+        several sciences in one department fosters cooperation and exchange among traditional disciplines that share similar
+        methodological and philosophical problems. The research endeavors of both faculty and graduate students, whether disciplinary or interdisciplinary, deal largely
+        with problems of fundamental scientific interest and to a lesser extent with applied science, management or policy making.The Department of Environmental Sciences is an academic department in the faculty of
+        Mathematical and Physical Sciences of Jahangirnagar University. In addition to a full phase undergraduate program, the
+        department also offers graduate degree programs leading to Master of Science (MS), Master of Philosophy (M.Phil) and Doctor
+        of Philosophy (Ph.D) emphasizing basic research of a disciplinary of interdisciplinary nature. The unique juxtaposition of
+        several sciences in one department fosters cooperation and exchange among traditional disciplines that share similar
+        methodological and philosophical problems. The research endeavors of both faculty and graduate students, whether disciplinary or interdisciplinary, deal largely
+        with problems of fundamental scientific interest and to a lesser extent with applied science, management or policy making.</string>
+
+    <string name="cse">The study of computer programming itself investigates various aspects of the use of programming languages
+        and complex systems, and human-computer interaction
+        focuses on the challenges in making computers and computations useful, usable, and universally accessible to humans.</string>
+
+    <string name="statistics">The Department has more than 30 top-notched faculty members, well equipped and well-furnished computer
+        lab, a seminar library, and a contemporary syllabus which is updated in every four years period. The department is a pioneer
+        of having a computer lab. Because of lab facilities, all the students of the department are very proficient in statistical
+        computing and using different statistical packages such as SPSS, STATA, Minitab, Eviews, and programming language including C++, FORTRAN, R, SAS, GAUSS,
+        MATLAB etc. In addition, all the graduate students are capable enough to conduct research independently.</string>
+
+
+</resources>
